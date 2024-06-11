@@ -60,7 +60,7 @@ const Login = () => {
         }
     }
     return (
-        <div className={`conatiner ${styles.auth}`}>
+        <div className={`container ${styles.auth}`}>
             <Card>
                 <div className={styles.form}>
                     <div className='--flex-center'>
